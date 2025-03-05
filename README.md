@@ -2,6 +2,8 @@
 
 完成**Download Pretrained Models**和**Run Inference**即可开始体验
 
+虎牙镜像：registry-haiyan.local.huya.com/machine-learn/fengweiyan_hallo3:hallo3_v1.0
+
 ### 📥 Download Pretrained Models
 
 You can easily get all pretrained models required by inference from our [HuggingFace repo](https://huggingface.co/fudan-generative-ai/hallo3).
